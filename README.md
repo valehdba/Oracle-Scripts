@@ -1,6 +1,4 @@
-# Oracle_DB_Check(DRAFT)
-This scripts checks following options in Oracle database
-  -Oracle CDB and PDBs status,space usage
-  -Oracle standby archivelog sycnranization
+# Oracle DBA Scripts
+Here are collected Oracle DBA scripts that can help you with your Oracle DBA works
 
-.....to be continuie
+..... 
