@@ -1,10 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/monitor_memory_rac.sql
--- Author       : Tim Hall
 -- Description  : Displays memory allocations for the current database sessions for the whole RAC.
--- Requirements : Access to the V$ views.
--- Call Syntax  : @monitor_memory_rac
--- Last Modified: 15-JUL-2000
 -- -----------------------------------------------------------------------------------
 SET LINESIZE 200
 

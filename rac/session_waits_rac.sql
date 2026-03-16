@@ -1,10 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/session_waits_rac.sql
--- Author       : Tim Hall
 -- Description  : Displays information on all database session waits for the whole RAC.
--- Requirements : Access to the V$ views.
--- Call Syntax  : @session_waits_rac
--- Last Modified: 02/07/2005
 -- -----------------------------------------------------------------------------------
 SET LINESIZE 200
 SET PAGESIZE 1000

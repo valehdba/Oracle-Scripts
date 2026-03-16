@@ -1,10 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/session_undo_rac.sql
--- Author       : Tim Hall
 -- Description  : Displays undo information on relevant database sessions.
--- Requirements : Access to the V$ views.
--- Call Syntax  : @session_undo_rac
--- Last Modified: 20/12/2005
 -- -----------------------------------------------------------------------------------
 SET LINESIZE 200
 
